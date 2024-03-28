@@ -1,0 +1,25 @@
+p {
+    text-align: center;
+    margin: 0px;
+}
+
+table {
+    background-color: #d1edc9;
+    border: 1px;
+    border-style: solid;
+    margin: auto;
+
+}
+
+td,
+th {
+    border: 1px solid;
+}
+
+td {
+    text-align: left;
+}
+
+th {
+    height: 40px;
+}
